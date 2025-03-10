@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 </iframe>
 packages/ui-patterns/MobileSheetNav/MobileSheetNav.tsx
 apps/docs/spec/supabase_swift_v2.yml
-
+apps/docs/spec/api_v1_openapi.json
